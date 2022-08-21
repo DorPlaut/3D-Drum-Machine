@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old amp
+* source:	https://sketchfab.com/3d-models/old-amp-5c4c4769394349d3a5d320ed46cc7db1
+* author:	pibanezl (https://sketchfab.com/hypermegadev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old amp" (https://sketchfab.com/3d-models/old-amp-5c4c4769394349d3a5d320ed46cc7db1) by pibanezl (https://sketchfab.com/hypermegadev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
